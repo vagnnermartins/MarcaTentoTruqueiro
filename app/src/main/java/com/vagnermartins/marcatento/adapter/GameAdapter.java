@@ -37,8 +37,8 @@ public class GameAdapter extends ArrayAdapter<Game> {
         Game item = getItem(position);
         viewHolder.weScore.setText(String.valueOf(item.getWeScore()));
         viewHolder.theyScore.setText(String.valueOf(item.getTheyScore()));
-        viewHolder.weName.setText(item.getWeName());
-        viewHolder.theyName.setText(item.getTheyName());
+        viewHolder.weName.setText(item.getWeName().equals("") ? getContext().getString(R.string.we) :  item.getWeName());
+        viewHolder.theyName.setText(item.getTheyName().equals("") ? getContext().getString(R.string.they) :  item.getTheyName());
         return convertView;
     }
 

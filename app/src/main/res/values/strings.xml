@@ -12,7 +12,7 @@
     <string name="six_point">+6</string>
     <string name="nine_point">+9</string>
     <string name="twelve_point">+12</string>
-    <string name="they">Eles</string>
+    <string name="they">They</string>
     <string name="loser">Perdeu Marreco</string>
     <string name="message_beginner" formatted="false">O time %s venceu por 12 X %s</string>
     <string name="message_easy" formatted="false">Marreco! O time %s destruiu por 12 X %s</string>

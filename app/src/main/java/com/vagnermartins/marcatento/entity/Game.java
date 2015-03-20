@@ -20,7 +20,7 @@ public class Game {
     }
 
     public String getWeName() {
-        return weName.equals("") ? "Nós" :  weName;
+        return weName;
     }
 
     public void setWeName(String weName) {
@@ -36,7 +36,7 @@ public class Game {
     }
 
     public String getTheyName() {
-        return theyName.equals("") ? "Nós" :  theyName;
+        return theyName;
     }
 
     public void setTheyName(String theyName) {

@@ -73,10 +73,10 @@ public class MainActivity extends ActionBarActivity {
         String message;
         String winner;
         if(winnerId == ui.weScore.getId()){
-            winner = ui.weName.getText().toString().equals("") ? "Nós" : ui.weName.getText().toString();
+            winner = ui.weName.getText().toString().equals("") ? getString(R.string.we) : ui.weName.getText().toString();
             message = checkMessage(winner, loserScore, diferencaDePontos);
         }else{
-            winner = ui.theyName.getText().toString().equals("") ? "Eles" : ui.theyName.getText().toString();
+            winner = ui.theyName.getText().toString().equals("") ? getString(R.string.they) : ui.theyName.getText().toString();
             message = checkMessage(winner, loserScore, diferencaDePontos);
         }
         saveHistory();

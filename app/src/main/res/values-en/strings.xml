@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Marca Tento Truqueiro</string>
+    <string name="title_activity_history">Score</string>
+    <string name="ID_AD_MOB_MAIN">ca-app-pub-8642896372691767/2393816760</string>
+    <string name="ID_AD_MOB_HISTORICO">ca-app-pub-8642896372691767/9637881963</string>
+
+    <string name="we">We</string>
+    <string name="zero">0</string>
+    <string name="one_point">+1</string>
+    <string name="less_point">-1</string>
+    <string name="three_point">+3</string>
+    <string name="six_point">+6</string>
+    <string name="nine_point">+9</string>
+    <string name="twelve_point">+12</string>
+    <string name="they">Them</string>
+    <string name="loser">You lose</string>
+    <string name="message_beginner" formatted="false">The team %s won by 12 X %s</string>
+    <string name="message_easy" formatted="false">Duck! The team %s destruiu by 12 X %s</string>
+    <string name="message_medium" formatted="false">Very Easy! The team %s humbled by 12 X %s</string>
+    <string name="message_hard" formatted="false">Wowww! The team %s won by 12 X %s</string>
+
+    <string name="menu_new_game">New Game</string>
+    <string name="menu_history">Score</string>
+    <string name="menu_delete">Delete</string>
+    <string name="history_delete_message">Successfully removed History!</string>
+    <string name="undo">Undo</string>
+    <string name="history_message">No saved game...</string>
+</resources>
