@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Marca Tento Truqueiro</string>
+    <string name="title_activity_history">Histórico</string>
+    <string name="ID_AD_MOB_MAIN">ca-app-pub-8642896372691767/2393816760</string>
+    <string name="ID_AD_MOB_HISTORICO">ca-app-pub-8642896372691767/9637881963</string>
+
+    <string name="we">Nós</string>
+    <string name="zero">0</string>
+    <string name="one_point">+1</string>
+    <string name="less_point">-1</string>
+    <string name="three_point">+3</string>
+    <string name="six_point">+6</string>
+    <string name="nine_point">+9</string>
+    <string name="twelve_point">+12</string>
+    <string name="they">Eles</string>
+    <string name="loser">Perdeu Marreco</string>
+    <string name="message_beginner" formatted="false">O time %s venceu por 12 X %s</string>
+    <string name="message_easy" formatted="false">Marreco! O time %s destruiu por 12 X %s</string>
+    <string name="message_medium" formatted="false">Fácil demais! O time %s humilhou por 12 X %s</string>
+    <string name="message_hard" formatted="false">Nossa! O time %s venceu bonito por 12 X %s</string>
+
+    <string name="menu_new_game">Novo Jogo</string>
+    <string name="menu_history">Histórico</string>
+    <string name="menu_delete">Deletar</string>
+    <string name="history_delete_message">Histórico removido com sucesso!</string>
+    <string name="undo">Desfazer</string>
+    <string name="history_message">Nenhum jogo salvo...</string>
+</resources>
